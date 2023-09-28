@@ -1,4 +1,10 @@
 # algorithm_exercise
+
+🟩 -> easy
+🟦 -> medieum
+🟥 -> hard
+⬛ -> Helllll
+
 This repository is used for my daily algorithm pratice to enhance my coding skill
 
 I will write the code in python with complexity analysis and solution 
